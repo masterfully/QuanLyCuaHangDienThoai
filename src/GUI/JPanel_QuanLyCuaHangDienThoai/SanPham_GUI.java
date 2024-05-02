@@ -308,6 +308,6 @@ public class SanPham_GUI extends JPanel {
 
         // Hiển thị JFrame
         frame.setVisible(true);
-        //hihihihitesttt
+        //hihihihitesttt2
     }
 }
